@@ -1,0 +1,8 @@
+rincian materi stupen
+  1. ddp dart
+  2. dasar-dasar flutter
+  3. ui/ux
+  4. desin pattern
+  5. database
+  6. frontend
+  7. backend
